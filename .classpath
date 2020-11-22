@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="jars/webdrivermanager-4.2.2.jar"/>
 	<classpathentry kind="lib" path="jars/selenium-server-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
